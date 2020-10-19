@@ -9,3 +9,4 @@ urllib.request.urlretrieve("https://raw.githubusercontent.com/e9t/nsmc/master/ra
 
 train_data = pd.read_table('ratings.txt')
 
+is?
